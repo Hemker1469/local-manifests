@@ -5,7 +5,7 @@
            fetch="https://github.com/hsx02"/>
    <remote name="ian"
            fetch="https://github.com/iaiaian1"/>
-   <remote name="potato" 
+   <remote name="patata" 
            fetch="https://github.com/PotatoProject"/>
 
 <!-- Kernels -->
@@ -21,7 +21,7 @@
 
 
  <remove-project name="device_qcom_sepolicy-legacy-um"/>
- <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um" remote="potato" revision="frico-release" />
+ <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um" remote="patata" revision="frico-release" />
   
    
 
