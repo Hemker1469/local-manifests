@@ -11,7 +11,6 @@
            fetch="https://github.com/dlwlrma123" />
    
 <!-- Replacement -->
-   <remove-project name="LineageOS/android_hardware_qcom_display"/>
    <project path="hardware/qcom-caf/msm8996/display" 
             name="hardware_qcom-caf_display" 
             remote="hsx02" 
