@@ -14,7 +14,7 @@
    <remove-project name="LineageOS/android_hardware_qcom_display"/>
    <project path="hardware/qcom-caf/msm8996/display" 
             name="hardware_qcom-caf_display" 
-            remote="hsx" 
+            remote="hsx02" 
             revision="Aex-S"/>
 
 <!-- Kernels -->
