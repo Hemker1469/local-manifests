@@ -38,7 +38,7 @@
    
 <!-- Replacement -->
 <!-- Display and nightlight i hope-->
-<!--    <remove-project name="android_hardware_qcom_display"/> -->
+   <remove-project name="android_hardware_qcom_display"/>
    <project path="hardware/qcom-caf/msm8996/display" 
             name="hardware_qcom-caf_display" 
             remote="hsx02" 
