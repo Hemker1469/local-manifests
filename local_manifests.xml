@@ -48,6 +48,11 @@
    <project path="hardware/qcom-caf/wlan" 
             name="hardware_qcom-caf_wlan" 
             remote="hsx02" 
-            revision="S"/> -->
-   
+            revision="S"/> -->   
+<!-- Screen flickering -->
+   <remove-project name="frameworks_base"/>
+   <project path="frameworks/base" 
+            name="android_frameworks_base" 
+            remote="ian" 
+            revision="12"/>
 </manifest>
