@@ -55,4 +55,11 @@
             name="android_frameworks_base" 
             remote="ian" 
             revision="12"/>
+   
+<!-- Radio -->
+   <project path="packages/apps/FMRadio" 
+            name="packages_apps_FMRadio" 
+            remote="hsx02" 
+            revision="lineage-18.1"/>
+   
 </manifest>
