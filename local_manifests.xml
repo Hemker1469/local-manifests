@@ -11,6 +11,8 @@
            fetch="https://github.com/mi-msm8937" />     
    <remote name="Devs"
            fetch="https://github.com/xiaomi-sdm439-devs" />
+   <remote name="hemker"
+           fetch="https://github.com/Hemker1469" />
 
 <!-- Kernels -->
    <project path="kernel/xiaomi/sdm439" 
@@ -22,8 +24,8 @@
 <!-- Device Tree and Common Device Tree -->
    <project path="device/xiaomi/pine" 
             name="device_xiaomi_pine" 
-            remote="ian" 
-            revision="OctaviOs-12.0"/>
+            remote="hemker" 
+            revision="LineageOS-12.0"/>
    
    <project path="device/xiaomi/sdm439-common" 
             name="device_xiaomi_sdm439-common" 
